@@ -1,0 +1,45 @@
+body{
+    background-color:#dbdbd4;
+    color: #434D53;
+    font-family:"News Cycle";
+    text-align: justify;
+
+ 
+}
+header{
+    display: flex;
+    columns: #434d53;
+    font-family: "Yesteryear";
+    justify-content: center;
+    font-size: 75px;
+ }
+ 
+main{
+    display: flex;
+    flex-direction:row;
+}
+
+.txt_izq{
+    padding: 15px;
+ }
+section{
+    display: flex;
+    flex-direction:column;
+    padding: 15px;
+}
+        .satan{
+            padding: 15px;
+
+        }
+        .mono{
+            padding: 15px;
+        }
+
+.txt_dch {
+    padding: 15px;
+
+}
+footer{
+    padding: 15px;
+    
+}
